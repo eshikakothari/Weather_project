@@ -3,7 +3,8 @@ body,html{
 }
 body {
   background-image: url("/assets/back.jpg");
-  background-size: contain;
+  background-size: cover;
+  background-repeat: repeat-x;
 }
 
 .container {
